@@ -1,2 +1,3 @@
 A6
 A6 수정 ver Master
+A6 수정 ver B 이건필수요소
